@@ -1,3 +1,6 @@
+# THIS REPOSITORY IS NOT FINISHED YET! THERE IS NO WORKING PRODUCT! DONT EVEN THINK ABOUT COPYING THE SOURCE CODE AND RUNNING CARGO, IT GENUINLEY WILL NOT DO ANYTHING RELATED TO RPN ;-; (Scroll down to see the readme that part is almost done) 
+
+
 # Reverse Polish Notation Calculator CLI Tool
 Hey there! Thanks for checking out my cli tool! This .readme is going to be a guide for you to help understand what the tool is and how to use/install it.
 
